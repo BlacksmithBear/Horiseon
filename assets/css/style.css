@@ -45,7 +45,7 @@ header h1 .seo {
     text-decoration: none;
 }
 /* Navigation End */
-/* Hero Start */
+/* Hero Image */
 .hero {
     height: 800px;
     width: 100%;
@@ -54,17 +54,17 @@ header h1 .seo {
     background-size: cover;
     background-position: center;
 }
-    /* Floats for the images */
+    /* Floats for the images and text positioning */
 .float-left {
     float: left;
     margin-right: 25px;
-}
 
+}
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* Hero Text */
 .content {
     width: 75%;
     display: inline-block;
@@ -76,7 +76,6 @@ header h1 .seo {
     height: 300px;
     background-color: #0072bb;
     color: #ffffff;
-    max-height: 200px;
 }
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
@@ -85,6 +84,7 @@ header h1 .seo {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Side Bar */
 .benefits {
     margin-right: 20px;
     padding: 20px;
